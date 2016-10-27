@@ -10,4 +10,4 @@ def main():
         print(doors[i])
 
 if __name__=="__main__":
-main()
+    main()
