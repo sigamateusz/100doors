@@ -47,9 +47,10 @@ doors=[]
 
 def main():
     hundred_closed_doors()
-    for i in range(1,100):
+    for i in range(1,101):
         toggle_range(i)
     open_doors()
+
 
 if __name__=="__main__":
     main()
